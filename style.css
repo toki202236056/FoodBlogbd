@@ -1,0 +1,180 @@
+body{
+    font-family: 'Josefin Sans';
+}
+
+.nav-link{
+    background-color:#d6883f;
+    margin: 5px;
+     padding: 3px;
+     border-radius: 7px;
+     border: 1px solid rgb(244, 190, 190);
+     color: white;
+}
+
+.navbar-brand{
+    color: rgb(231,141,141);
+    font-size:26px ;
+}
+
+.navbar-brand:hover{
+    color: rgb(231,141,141);
+    font-size:30px ;
+    transition: 0.3s ease-in-out;
+}
+
+
+.cls0{
+    color:rgb(231,141,141);
+}
+
+.cls1{
+    font-size: 20px;
+}
+
+.cls1 span: :nth-child(1){
+   position: relative;
+   animation:  animate 2s;
+   animation-fill-mode: backwards;
+    
+
+    
+
+}
+
+.cls1 span: :nth-child(2){
+    position: relative;
+    animation:  animate 2s;
+    animation-delay: 0.5s;
+    animation-fill-mode: backwards;
+     
+ 
+     
+ 
+ }
+
+ .cls1 span: :nth-child(3){
+    position: relative;
+    animation:  animate 2s;
+    animation-delay: 0.7s;
+    animation-fill-mode: backwards;
+     
+ 
+     
+ 
+ }
+ 
+ 
+ .cls1 span: :nth-child(4){
+    position: relative;
+    animation:  animate 2s;
+    animation-delay: 1s;
+    animation-fill-mode: backwards;
+     
+ 
+     
+ 
+ }
+ 
+ .cls1 span: :nth-child(5){
+    position: relative;
+    animation:  animate 2s;
+    animation-delay: 1.25s;
+    animation-fill-mode: backwards;
+     
+ 
+     
+ 
+ }
+ 
+ .cls1 span: :nth-child(6){
+    position: relative;
+    animation:  animate 2s;
+    animation-delay: 1.5s;
+    animation-fill-mode: backwards;
+     
+ 
+     
+ 
+ }
+ 
+ .cls1 span: :nth-child(7){
+    position: relative;
+    animation:  animate 2s;
+    animation-delay: 2s;
+    animation-fill-mode: backwards;
+     
+ 
+     
+ 
+ }
+ 
+ .cls1 span: :nth-child(8){
+    position: relative;
+    animation:  animate 2s;
+    animation-delay: 2.25s;
+    animation-fill-mode: backwards;
+     
+ 
+     
+ 
+ }
+ 
+ .cls1 span: :nth-child(9){
+    position: relative;
+    animation:  animate 2s;
+    animation-delay: 2.75s;
+    animation-fill-mode: backwards;
+     
+ 
+     
+ 
+ }
+ 
+ .cls1 span: :nth-child(10){
+    position: relative;
+    animation:  animate 2s;
+    animation-delay: 3s;
+    animation-fill-mode: backwards;
+     
+ 
+     
+ 
+ }
+ 
+ .cls1 span: :nth-child(11){
+    position: relative;
+    animation:  animate 2s;
+    animation-delay: 3.25s;
+    animation-fill-mode: backwards;
+     
+ 
+     
+ 
+ }
+ 
+ .cls1 span: :nth-child(12){
+    position: relative;
+    animation:  animate 2s;
+    animation-delay: 3.5s;
+    animation-fill-mode: backwards;
+     
+ 
+     
+ 
+ }
+ 
+
+@keyframes animate{
+
+    0%{
+        bottom: -1000px;
+    }
+    100%{
+        bottom: 0;
+    }
+}
+
+
+.btn-warning{
+    background-color: #d6883f;
+}
